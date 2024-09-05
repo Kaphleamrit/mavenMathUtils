@@ -94,17 +94,20 @@ Jenkins is configured to send build notifications. You can set up email or Slack
 
 ## Screenshots
 
-### Jenkins Build Results
-![Jenkins Build Results](path_to_screenshot1)
-
-### SonarQube Dashboard
-![SonarQube Dashboard](path_to_screenshot2)
-
-### JaCoCo Coverage Report
-![JaCoCo Coverage](path_to_screenshot3)
-
-### Generated Artifact
-![Generated Artifact](path_to_screenshot4)
+(images/img1.png)
+(images/img2.png)
+(images/img3.png)
+(images/img4.png)
+(images/img5.png)
+(images/img6.png)
+(images/img7.png)
+(images/img8.png)
+(images/img9.png)
+(images/img10.png)
+(images/img11.png)
+(images/img12.png)
+(images/img13.png)
+(images/img14.png)
 
 ## License
 
